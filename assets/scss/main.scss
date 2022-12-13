@@ -1,0 +1,24 @@
+body {
+  background: black;
+  font-family: 'Roboto', sans-serif;
+  /* width */
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f5ff9b;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #fbff00;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(255, 123, 47);
+  }
+}
