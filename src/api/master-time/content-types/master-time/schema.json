@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "master_times",
+  "info": {
+    "singularName": "master-time",
+    "pluralName": "master-times",
+    "displayName": "_master_time",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "time": {
+      "type": "time",
+      "required": true,
+      "default": "00:00"
+    },
+    "status": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}
