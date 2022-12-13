@@ -1,0 +1,65 @@
+[
+  {
+    "name": "checkout-success",
+    "path": "/checkout-success",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/checkout-success.vue",
+    "chunkName": "pages/checkout-success",
+    "_name": "_596c6aee"
+  },
+  {
+    "name": "court",
+    "path": "/court",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/court/index.vue",
+    "chunkName": "pages/court/index",
+    "_name": "_4e57f35e"
+  },
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/order/index.vue",
+    "chunkName": "pages/order/index",
+    "_name": "_50342454"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_7f00111f"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_000f45e2"
+  },
+  {
+    "name": "auth-register",
+    "path": "/auth/register",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/auth/register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_45a66d6d"
+  },
+  {
+    "name": "court-court_id",
+    "path": "/court/:court_id",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/court/_court_id.vue",
+    "chunkName": "pages/court/_court_id",
+    "_name": "_7550b4a6"
+  },
+  {
+    "name": "order-order_id",
+    "path": "/order/:order_id",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/order/_order_id.vue",
+    "chunkName": "pages/order/_order_id",
+    "_name": "_82ef39e6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/andarpratama/MacData/WORK/nuxtjs-group-3/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_79d7ce15"
+  }
+]
